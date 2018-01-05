@@ -1,0 +1,31 @@
+
+
+[
+
+
+    { 
+        "title" : "はじめて",
+
+        
+        
+        
+        "tags": [
+        
+            "cobalt",
+            
+        
+            "rust",
+            
+        
+            "c++",
+            
+        
+            "test"
+            
+        
+        ],
+        "href" : "2018/post-test",
+        "content" : "社会に放牧されはや1年と10ヶ月あまり。RustとC++がすき。日頃勉強してわかったことを気が向いたときに書く可能性があるくらいのもの。このブログはRust製静的サイトジェネレータCobaltを使い、GitHub Pagesで公開している。各記事はMarkdownで書いて簡単なコマンドでpublichできるのでかんたんでとてもよい。数式のテスト現状数式を書く努力を怠っているため、画像を貼り付けることで対応する。非定常非圧縮性Navier--Stokes問題コードのテストMarkdownのfenced code blockと同じ記法で書けてよい。hello world in Rustfn main() {    println!(&quot;Hello my beautiful world!!&quot;);}hello world in C++#include &lt;iostream&gt;int main(void){    std::cout &lt;&lt; &quot;Hello my beautiful world!&quot; &lt;&lt; std::endl;    return 0;}ねこ"
+    }
+
+]
