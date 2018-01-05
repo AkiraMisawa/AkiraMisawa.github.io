@@ -16,7 +16,7 @@ tags: cobalt, math, rust, c++
 このブログは`Rust`製静的サイトジェネレータ[Cobalt](https://github.com/cobalt-org/cobalt.rs)を使い、
 [GitHub Pages](https://pages.github.com)で公開している。
 
-各記事はMarkdownで書いて簡単なコマンドでpublichできるのでかんたんでとてもよい。
+各記事はMarkdownで書いて簡単なコマンドでpublishできるのでかんたんでとてもよい。
 
 
 ## 数式のテスト
