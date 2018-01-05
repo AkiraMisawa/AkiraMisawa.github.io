@@ -7,4 +7,4 @@ ignore:
   - build/*
   - "_lunr"
 syntax_highlight:
-  theme: base16-ocean.light
+  theme: Solarized (dark)
