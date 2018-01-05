@@ -4,7 +4,7 @@ title: はじめて
 author: q_msw
 date: 05 Jan 2018 16:15:00 +0100
 path: /:year/initial-post
-tags: cobalt, rust, c++, test
+tags: cobalt, math, rust, c++
 ---
 
 社会に放牧されはや1年と10ヶ月あまり。
