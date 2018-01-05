@@ -3,7 +3,7 @@ extends: post.liquid
 title: はじめて
 author: q_msw
 date: 05 Jan 2018 16:15:00 +0100
-path: /:year/post-test
+path: /:year/initial-post
 tags: cobalt, rust, c++, test
 ---
 
