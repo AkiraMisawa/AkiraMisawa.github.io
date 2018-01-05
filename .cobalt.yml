@@ -1,0 +1,10 @@
+name: Effective M++
+source: "./"
+posts: "./posts"
+dest: "./build"
+ignore:
+  - .git/*
+  - build/*
+  - "_lunr"
+syntax_highlight:
+  theme: base16-ocean.light
